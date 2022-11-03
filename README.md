@@ -2,7 +2,7 @@
 
 👀 I’m interested in data processing/analis projects
 
-<center>✨ ***About me in 30 sec***✨ </center>
+<center>✨ ***About me in 30 sec*** ✨ </center>
 
 *  *I graduate Reshetnev Siberian State University of Science and Technology*
     Master in Engineering
