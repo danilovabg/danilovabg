@@ -16,7 +16,8 @@
    * Mathematics for analytic system calculations. 
    * Algorithms for automated Information systems. 
    * Automated control systems - theory, design, development. 
-   * Microprocessor devices for control systems. Programming languages and databases.
+   * Microprocessor devices for control systems. 
+   * Programming languages and databases.
 
 ### 🌱 currently learn:
 
