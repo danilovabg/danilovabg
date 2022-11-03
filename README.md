@@ -4,7 +4,7 @@
 
 ### ✨ About me in 30 sec ✨ </center>
 
-   📚 I graduate Reshetnev Siberian State University of Science and Technology
+   📚 I graduated Reshetnev Siberian State University of Science and Technology
    
    Master in Engineering
 
@@ -42,7 +42,7 @@
    
    • 👉 Project Management skills
 
-### 🙌🏻 Fil free to contact with Me
+### 🙌🏻 Feel free to contact with Me
 
 * 📫 How to reach me danilovabg@gmail.com
 
