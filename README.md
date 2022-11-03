@@ -31,7 +31,7 @@
    • Ability to work efficiently to meet demanding schedules
    • Project Management skills
 
-### 🙌🏻 Be free to contact with Me
+### 🙌🏻 Fill free to contact with Me
 
 * 📫 How to reach me danilovabg@gmail.com
 
