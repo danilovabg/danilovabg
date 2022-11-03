@@ -1,4 +1,4 @@
-###👋 Hi, I'm Anna and I am taking a new professional direction
+### 👋 Hi, I'm Anna and I am taking a new professional direction
 
 👀 I’m interested in data processing/analis projects
 
@@ -21,7 +21,7 @@
     * [DL](https://mipt.ru/science/labs/innovation/projects/deep_learning_school)
 
 
-###Fluent in three cultures, three languages - Russian, Bulgarian, English
+### Fluent in three cultures, three languages - Russian, Bulgarian, English
 
     • Outstanding analytic and problem-solving skills
     • Excellent time management skills
