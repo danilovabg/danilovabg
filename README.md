@@ -28,7 +28,7 @@
 
 ### Fluent in three cultures, three languages - Russian, Bulgarian, English
 
-   • Outstanding analytic and problem-solving skills
+   • Outstanding analytic and problem-solving skills\n
    • Excellent time management skills
    • Effective communication skills
    • Ability to work well with others
