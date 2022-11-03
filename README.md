@@ -4,8 +4,9 @@
 
 ### ✨ About me in 30 sec ✨ </center>
 
-   📚 I graduate Reshetnev Siberian State University of Science and Technology*
-    Master in Engineering
+   📚 I graduate Reshetnev Siberian State University of Science and Technology
+   
+   Master in Engineering
 
    Specialty: 
     Automated control systems for unmanned aerial vehicles
