@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Anna and I am taking a new professional direction
+## 👋 Hi, I'm Anna and I am taking a new professional direction
 
 👀 I’m interested in data processing/analis projects
 
-<center>✨ ***About me in 30 sec*** ✨ </center>
+### ✨ About me in 30 sec ✨ </center>
 
 *  *I graduate Reshetnev Siberian State University of Science and Technology*
     Master in Engineering
@@ -13,7 +13,7 @@
     Major Disciplines: 
     Mathematics for analytic system calculations. Algorithms for automated Information systems. Automated control systems - theory, design, development. Microprocessor devices for control systems. Programming languages and databases.
 
-* 🌱 currently learn:
+### 🌱 currently learn:
     * [python](https://softuni.bg/) 
     * [data science](https://skillfactory.ru/) 
     * [ml](https://skillfactory.ru/)  
@@ -30,7 +30,7 @@
     • Ability to work efficiently to meet demanding schedules
     • Project Management skills
 
-🙌🏻 Be free to contact with Me
+### 🙌🏻 Be free to contact with Me
 * 📫 How to reach me danilovabg@gmail.com
 
 
