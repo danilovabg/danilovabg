@@ -42,7 +42,7 @@
    
    • 👉 Project Management skills
 
-### 🙌🏻 Fill free to contact with Me
+### 🙌🏻 Fil free to contact with Me
 
 * 📫 How to reach me danilovabg@gmail.com
 
