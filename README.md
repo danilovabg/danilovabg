@@ -11,10 +11,11 @@
     Automated control systems for unmanned aerial vehicles
 
    Major Disciplines: 
-    * Mathematics for analytic system calculations. 
-    * Algorithms for automated Information systems. 
-    * Automated control systems - theory, design, development. 
-    * Microprocessor devices for control systems. Programming languages and databases.
+   
+   * Mathematics for analytic system calculations. 
+   * Algorithms for automated Information systems. 
+   * Automated control systems - theory, design, development. 
+   * Microprocessor devices for control systems. Programming languages and databases.
 
 ### 🌱 currently learn:
 
