@@ -4,14 +4,17 @@
 
 ### ✨ About me in 30 sec ✨ </center>
 
-    I graduate Reshetnev Siberian State University of Science and Technology*
+   I graduate Reshetnev Siberian State University of Science and Technology*
     Master in Engineering
 
-    Specialty: 
+   Specialty: 
     Automated control systems for unmanned aerial vehicles
 
-    Major Disciplines: 
-    Mathematics for analytic system calculations. Algorithms for automated Information systems. Automated control systems - theory, design, development. Microprocessor devices for control systems. Programming languages and databases.
+   Major Disciplines: 
+    * Mathematics for analytic system calculations. 
+    * Algorithms for automated Information systems. 
+    * Automated control systems - theory, design, development. 
+    * Microprocessor devices for control systems. Programming languages and databases.
 
 ### 🌱 currently learn:
 
