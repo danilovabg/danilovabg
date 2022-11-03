@@ -1,8 +1,10 @@
-👋 Hi, I'm Anna and I am taking a new professional direction
+###👋 Hi, I'm Anna and I am taking a new professional direction
 
-✨ ***About me in 30 sec***✨ 
+👀 I’m interested in data processing/analis projects
 
-* books *I graduate Reshetnev Siberian State University of Science and Technology*
+<center>✨ ***About me in 30 sec***✨ </center>
+
+*  *I graduate Reshetnev Siberian State University of Science and Technology*
     Master in Engineering
 
     Specialty: 
@@ -18,7 +20,15 @@
     * [mySQL](https://softuni.bg/) 
     * [DL](https://mipt.ru/science/labs/innovation/projects/deep_learning_school)
 
-👀 I’m interested in data processing projects
+
+###Fluent in three cultures, three languages - Russian, Bulgarian, English
+
+    • Outstanding analytic and problem-solving skills
+    • Excellent time management skills
+    • Effective communication skills
+    • Ability to work well with others
+    • Ability to work efficiently to meet demanding schedules
+    • Project Management skills
 
 🙌🏻 Be free to contact with Me
 * 📫 How to reach me danilovabg@gmail.com
