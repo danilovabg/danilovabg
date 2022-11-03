@@ -30,17 +30,17 @@
 
 ### Fluent in three cultures, three languages - Russian, Bulgarian, English
 
-   • Outstanding analytic and problem-solving skills
+   • 👉 Outstanding analytic and problem-solving skills
    
-   • Excellent time management skills
+   • 👉 Excellent time management skills
    
-   • Effective communication skills
+   • 👉 Effective communication skills
    
-   • Ability to work well with others
+   • 👉 Ability to work well with others
    
-   • Ability to work efficiently to meet demanding schedules
+   • 👉 Ability to work efficiently to meet demanding schedules
    
-   • Project Management skills
+   • 👉 Project Management skills
 
 ### 🙌🏻 Fill free to contact with Me
 
