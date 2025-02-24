@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Anna and I am taking a new professional direction
+## 👋 Hi, I'm Anna
 
 👀 I’m interested in data processing/analis projects
 
