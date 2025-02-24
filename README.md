@@ -19,7 +19,7 @@
    * Microprocessor devices for control systems. 
    * Programming languages and databases.
 
-### 🌱 currently learn:
+### 🌱 currently work with:
 
    * [python](https://softuni.bg/) 
    * [data science](https://skillfactory.ru/) 
